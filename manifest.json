@@ -1,0 +1,7 @@
+{
+  "name": "Polypoquets",
+  "short_name": "Polypoquets",
+  "description": "Demo del poyecto polython",
+  "start_url": "/",
+  "display": "standalone"
+}
